@@ -1,4 +1,5 @@
 # CS246 Software Design and Development
+BYU-Idaho 
 Winter 2021
 
 Course Outcomes
